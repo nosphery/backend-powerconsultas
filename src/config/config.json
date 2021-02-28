@@ -1,0 +1,16 @@
+{
+    "authorization": "Token 323a6f79-4107-4495-89b9-7741fb3d52fa",
+    "jwt_secret": "SECRET",
+    "default_admin_password": "admin",
+    "datastone_api_url": "https://api.datastone.com.br/v1",
+    "datastone_plan": 3,
+    "databases": {
+        "mysql": {
+            "host": "127.0.0.1",
+            "port": 3306,
+            "username": "root",
+            "password": "",
+            "database": "infoconsultas"
+        }
+    }
+}
